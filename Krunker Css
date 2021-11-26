@@ -435,7 +435,7 @@ a {
 }
 
 #gameNameHolder::after {
-    content: "css by tae#4444";
+    content: "css by 7hh#8994";
     display: block;
     font-family: 'ISOCP';
 }
